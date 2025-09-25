@@ -71,4 +71,9 @@ Target outcome: **2.5–5% annual fundraising growth** through smarter donor ana
   - Framework scalable across other Scouting America councils  
 
 ---
+## ⚠️ Data Disclaimer  
 
+This repository does **not** contain any real donor or constituent data due to privacy and data protection policies.  
+- All datasets included here are either **synthetic** (programmatically generated to simulate donor behavior) or **anonymized samples**.  
+- The code, models, and dashboards are fully reproducible using these synthetic datasets.  
+- Results in this repository are **for demonstration and educational purposes only** and do not represent actual donor records from the Grand Canyon Council or Scouting America.  
